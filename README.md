@@ -16,5 +16,5 @@ In order to get this development running, I first examined the website from a co
 
 Based on the knowledge I gathered while completing this project, this experience can be applied to any E-commerce platform that wanted to reach a large demographic and wide ranged age group. If a consumer is satisfied when navigating through your website and they were able to find the information that they needed, then this development through its HTML and CSS was necessary. 
 
-URL of the deployed site: file:///Users/christineosmak/RUT-JER-FSF-PT-02-2021-U-C/week-1/01-HTML-Git-CSS/02-Homework/Develop/index.html
+URL of the deployed site: 
 URL of Git Hub Repo: https://github.com/ChristineOz/Horiseon-Social-Solution-Services-Inc.
